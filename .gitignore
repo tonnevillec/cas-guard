@@ -9,3 +9,5 @@
 /vendor/
 symfony.lock
 ###< symfony/framework-bundle ###
+
+.idea
